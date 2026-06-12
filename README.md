@@ -103,3 +103,17 @@ curl -I http://localhost:4321/imagenes/qatar-2022
 
 
 ![/mundiales](image.png)
+
+![/mundiales?include=full](image-1.png)
+
+![/mundial/qatar-2022](image-2.png)
+
+![/mundial/qatar-1011(no existe)](image-3.png)
+
+![/campeon/Argentina](image-4.png)
+
+![/random](image-5.png)
+
+![/search/final](image-6.png)
+
+![/search/ab](image-7.png)
