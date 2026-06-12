@@ -1,0 +1,80 @@
+[
+  {
+    "nombre": "Copa Mundial Uruguay 1930",
+    "anio": 1930,
+    "sede": "Uruguay",
+    "campeon": "Uruguay",
+    "subcampeon": "Argentina",
+    "goleador": "Guillermo Stabile",
+    "equipos": 13,
+    "imagen": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+    "slug": "uruguay-1930",
+    "resumen": "Primer Mundial de la historia, organizado y ganado por Uruguay.",
+    "descripcion": "La primera Copa Mundial reunio a 13 selecciones en Montevideo. Uruguay vencio 4-2 a Argentina en el Estadio Centenario y se corono campeon en su propia casa, en el ano del centenario de su independencia."
+  },
+  {
+    "nombre": "Copa Mundial Mexico 1986",
+    "anio": 1986,
+    "sede": "Mexico",
+    "campeon": "Argentina",
+    "subcampeon": "Alemania Occidental",
+    "goleador": "Gary Lineker",
+    "equipos": 24,
+    "imagen": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup",
+    "slug": "mexico-1986",
+    "resumen": "El Mundial de Maradona, recordado por la mano de Dios y el gol del siglo.",
+    "descripcion": "Argentina, liderada por Diego Maradona, gano su segundo Mundial al vencer 3-2 a Alemania Occidental en la final del Estadio Azteca. En cuartos de final, Maradona marco dos goles historicos ante Inglaterra: la mano de Dios y el llamado gol del siglo."
+  },
+  {
+    "nombre": "Copa Mundial Italia 1990",
+    "anio": 1990,
+    "sede": "Italia",
+    "campeon": "Alemania Occidental",
+    "subcampeon": "Argentina",
+    "goleador": "Salvatore Schillaci",
+    "equipos": 24,
+    "imagen": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
+    "slug": "italia-1990",
+    "resumen": "Alemania Occidental se vengo de Argentina cuatro anos despues.",
+    "descripcion": "Alemania Occidental conquisto su tercer titulo mundial al vencer 1-0 a Argentina en la final de Roma, con gol de penal de Andreas Brehme. El italiano Salvatore Schillaci fue la gran revelacion del torneo y se llevo la Bota de Oro con seis goles."
+  },
+  {
+    "nombre": "Copa Mundial Sudafrica 2010",
+    "anio": 2010,
+    "sede": "Sudafrica",
+    "campeon": "Espana",
+    "subcampeon": "Paises Bajos",
+    "goleador": "Thomas Muller",
+    "equipos": 32,
+    "imagen": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup",
+    "slug": "sudafrica-2010",
+    "resumen": "Primer Mundial en suelo africano, ganado por Espana.",
+    "descripcion": "Espana gano su primera Copa del Mundo al vencer 1-0 a Paises Bajos con un gol de Andres Iniesta en la prorroga de la final de Johannesburgo. Fue el primer Mundial celebrado en territorio africano y se popularizo el sonido de las vuvuzelas."
+  },
+  {
+    "nombre": "Copa Mundial Brasil 2014",
+    "anio": 2014,
+    "sede": "Brasil",
+    "campeon": "Alemania",
+    "subcampeon": "Argentina",
+    "goleador": "James Rodriguez",
+    "equipos": 32,
+    "imagen": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+    "slug": "brasil-2014",
+    "resumen": "Alemania conquisto su cuarto titulo y humillo a Brasil 7-1 en semifinales.",
+    "descripcion": "Alemania vencio 1-0 a Argentina en la final del Maracana con un gol de Mario Gotze en la prorroga. La semifinal entre Alemania y Brasil termino 7-1 a favor de los alemanes, una de las mayores goleadas en la historia del torneo."
+  },
+  {
+    "nombre": "Copa Mundial Qatar 2022",
+    "anio": 2022,
+    "sede": "Qatar",
+    "campeon": "Argentina",
+    "subcampeon": "Francia",
+    "goleador": "Kylian Mbappe",
+    "equipos": 32,
+    "imagen": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
+    "slug": "qatar-2022",
+    "resumen": "Argentina campeon tras una final epica ante Francia.",
+    "descripcion": "Primer Mundial celebrado en Medio Oriente y el primero disputado a fin de ano. Argentina gano en penales su tercer titulo tras un 3-3 contra Francia. Kylian Mbappe marco un triplete en la final pero termino como subcampeon, llevandose la Bota de Oro con ocho goles."
+  }
+]
