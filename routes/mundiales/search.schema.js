@@ -5,7 +5,7 @@ const schema = z.object({
     .string()
     .trim()
     .nonempty("La busqueda no puede estar vacia")
-    .min(2, "La busqueda debe tener al menos 2 caracteres")
+    .min(3, "La busqueda debe tener al menos 3 caracteres")
     .max(50, "La busqueda no puede tener mas de 50 caracteres")
     .transform((value) => value.toLowerCase()),
 });
